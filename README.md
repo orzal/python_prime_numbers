@@ -1,2 +1,2 @@
 # python_prime_numbers
-find prime numbers
+This python program checks if the number of a sequence are prime, if not it provides a divisor
